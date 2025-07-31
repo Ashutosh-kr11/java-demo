@@ -1,7 +1,7 @@
 # java-demo
 
 #update app:
-
+```bash
 package com.demo;
 import com.google.gson.Gson;
 
@@ -23,3 +23,4 @@ class Person {
         this.age = age;
     }
 }
+```
